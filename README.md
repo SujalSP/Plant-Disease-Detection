@@ -90,6 +90,6 @@ This project is intended for educational purposes. Predictions may not always be
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sujal**
 
-[GitHub Profile](https://github.com/YOUR-USERNAME)
+[GitHub Profile](https://github.com/SujalSP)
